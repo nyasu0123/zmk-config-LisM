@@ -19,10 +19,10 @@
 // excluded-positions以外のキーを押すとAMLが解除される。positionsは、lism.dtsiのpositionsと同じ順番で指定する必要がある。
 &zip_temp_layer {
     excluded-positions = <
-        5 // y 
         6 // U
         7 // I
         16 // J
+        18 // L
     >;
 };
 
